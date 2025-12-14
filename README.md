@@ -1,7 +1,7 @@
 # ID Verifier AI
 
 An intelligent identity document verification system powered by **Google Gemini 2.5 Flash**. This application allows users to upload images of identity documents (PAN Card, Aadhar Card, Driving License, etc.) and uses advanced AI vision capabilities to verify if the uploaded image matches the expected document type and checks for authenticity markers.
-
+![Application Screenshot](./image.png)
 ## 🚀 Features
 
 *   **Multi-Document Support**: Verify PAN Cards, Aadhar Cards, Driving Licenses, Voter IDs, and Passports.
