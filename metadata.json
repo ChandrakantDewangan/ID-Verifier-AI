@@ -1,0 +1,5 @@
+{
+  "name": "ID Verifier AI",
+  "description": "Intelligent identity document verification system using Gemini 2.5 Flash to validate PAN, Aadhar, and Driving Licenses via image analysis.",
+  "requestFramePermissions": []
+}
